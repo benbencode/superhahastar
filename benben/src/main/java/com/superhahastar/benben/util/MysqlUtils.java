@@ -13,7 +13,7 @@ import static com.superhahastar.benben.util.StringUtils.addColumns_SQL;
 public class MysqlUtils {
     static  final Logger logger = LoggerFactory.getLogger(MysqlUtils.class);
     public final static String driver="com.mysql.jdbc.Driver";
-    public final static String url="jdbc:mysql://172.17.187.138:9030/test_db";
+    public final static String url="jdbc:mysql://localhost:9030/test_db";
     public final static String username="root";
     public final static String password="";
 
