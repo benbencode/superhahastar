@@ -1,0 +1,2 @@
+1. flink读取kafka，自动获取topic元数据信息，不同topic做不同的处理逻辑 *（https://blog.csdn.net/xianpanjia4616/article/details/112970428）
+2. 获取kafka数据写入的时间戳，做数据全赖南路的监控 （https://blog.csdn.net/xianpanjia4616/article/details/112970428）
