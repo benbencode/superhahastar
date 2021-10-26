@@ -13,7 +13,7 @@ MapState<UK,UV>:put(UK,UV)、putAll(Map<UK,UV>)、get(UK)
 
 
 
-
+### transient 关键字
 
 
 
